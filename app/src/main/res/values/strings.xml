@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Spinner</string>
+
+    <string-array name="TheHub">
+        <item>Instructors</item>
+        <item>Utibe Etim</item>
+        <item>Nsikak Thompson</item>
+        <item>Raymond</item>
+    </string-array>
+
+    <string-array name="Lecturers">
+        <item>Workers</item>
+        <item>Etim</item>
+        <item>Pato</item>
+        <item>Emem</item>
+    </string-array>
+
+    <string-array name="Students">
+        <item>Interns</item>
+        <item>Etimbuk</item>
+        <item>Emmanuel</item>
+        <item>Richard</item>
+    </string-array>
+
+    <string-array name="Employees">
+        <item>Cleaners</item>
+        <item>Atim</item>
+        <item>Arit</item>
+        <item>Patience</item>
+    </string-array>
+
+    <string-array name="Security">
+        <item>Security</item>
+        <item>Akpan</item>
+        <item>Charles</item>
+        <item>Dickson</item>
+    </string-array>
+
+</resources>
